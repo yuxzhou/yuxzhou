@@ -36,6 +36,6 @@ I wrote and maintain the following repositories:
 
 -->
 
-Find my publications [here](https://scholar.google.com/citations?user=e2bnb2cAAAAJ&hl=en-gb) on Google Scholar, or visit my [landing page](https://https://yuxzhou.github.io/).
+Find my publications [here](https://scholar.google.com/citations?user=e2bnb2cAAAAJ&hl=en-gb) on Google Scholar, or visit my [landing page](https://yuxzhou.github.io/).
 
 
